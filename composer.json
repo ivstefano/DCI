@@ -1,0 +1,17 @@
+{
+  "name": "zigivicious/dci",
+  "description": "DCI library for working with behaviors",
+  "authors": [
+    {
+      "name": "Ivo Stefanov",
+      "email": "ivo.stefanov90@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DCI\\": "src/DCI/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}

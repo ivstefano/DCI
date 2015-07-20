@@ -1,5 +1,5 @@
 <?php
-namespace Common;
+namespace DCI\Common;
 /**
  * Created by Ivo Stefanov
  * Date: 5/1/15

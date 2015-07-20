@@ -5,9 +5,9 @@
  * Time: 2:33 AM
  */
 
-namespace Behaviors;
+namespace DCI\Behaviors;
 
-use Common\Utility;
+use DCI\Common\Utility;
 
 trait CastableBehavior
 {

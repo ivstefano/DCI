@@ -5,9 +5,9 @@
  * Time: 2:32 AM
  */
 
-namespace Users;
+namespace DCI\Users;
 
-use Behaviors\CastableBehavior;
+use DCI\Behaviors\CastableBehavior;
 
 class Admin
 {
